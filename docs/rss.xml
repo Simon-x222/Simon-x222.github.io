@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Simon's Blog</title><link>https://Simon-x222.github.io</link><description>日常记录分享</description><copyright>Simon's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://i.postimg.cc/5yGzPXMQ/20241127-151130.jpg</url><title>avatar</title><link>https://Simon-x222.github.io</link></image><lastBuildDate>Sun, 16 Mar 2025 11:00:22 +0000</lastBuildDate><managingEditor>Simon's Blog</managingEditor><ttl>60</ttl><webMaster>Simon's Blog</webMaster><item><title>烹饪随记</title><link>https://Simon-x222.github.io/post/peng-ren-sui-ji.html</link><description>### 1. 蛋炒饭 _2025.3.14_
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Simon's Blog</title><link>https://Simon-x222.github.io</link><description>日常记录分享</description><copyright>Simon's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://i.postimg.cc/5yGzPXMQ/20241127-151130.jpg</url><title>avatar</title><link>https://Simon-x222.github.io</link></image><lastBuildDate>Sun, 16 Mar 2025 11:04:50 +0000</lastBuildDate><managingEditor>Simon's Blog</managingEditor><ttl>60</ttl><webMaster>Simon's Blog</webMaster><item><title>烹饪随记</title><link>https://Simon-x222.github.io/post/peng-ren-sui-ji.html</link><description>### 1. 蛋炒饭 _2025.3.14_
 
 ![Image](https://github.com/user-attachments/assets/347f2375-a7dd-47bc-891a-f2244bb6f067)
 ![Image](https://github.com/user-attachments/assets/2d0a468e-e488-4bc9-8539-3431896517ff)
@@ -23,7 +23,7 @@
 
 ### 5. 炒面炒年糕 _2025.3.16_
 
-&lt;!-- Failed to upload 'da8ec7defd90f549ad604dfea8c45044.jpg' --&gt;
+&lt;!-- Failed to upload 'DA8EC7DEFD90F549AD604DFEA8C45044.jpg' --&gt;
 
 UPDATING...。</description><guid isPermaLink="true">https://Simon-x222.github.io/post/peng-ren-sui-ji.html</guid><pubDate>Thu, 13 Mar 2025 03:40:38 +0000</pubDate></item><item><title>日期数据转换</title><link>https://Simon-x222.github.io/post/ri-qi-shu-ju-zhuan-huan.html</link><description>`lubridate` 提供了更宽松的日期解析方法，能够自动适应不同的日期格式&#13;
 ```&#13;
